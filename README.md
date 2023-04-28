@@ -1,4 +1,6 @@
-### Hi there 👋
+My Vim stuff is here: [Normal Mode](https://normalmo.de/)
+
+Other writings are here: [While You Were Gone](https://whileyouweregone.co.uk/)
 
 <!--
 **sedm0784/sedm0784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
