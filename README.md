@@ -1,4 +1,8 @@
-My Vim stuff is here: [Normal Mode](https://normalmo.de/)
+I <3 Vim:
+
+- [Normal Mode](https://normalmo.de/)
+- [A recursive macro to calculate numbers in the Fibonacci sequence](https://normalmo.de/posts/recursive-macro/)
+- [Conway's Game of Life, implemented as a Vim Macro](https://normalmo.de/vimlife/)
 
 Other writings are here: [While You Were Gone](https://whileyouweregone.co.uk/)
 
