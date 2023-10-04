@@ -8,6 +8,8 @@ I <3 Vim:
 
 - [Conway's Game of Life, implemented as a Vim Macro](https://normalmo.de/vimlife/)
 
+- [A Vim macro for sorting numbers](https://normalmo.de/posts/a-novel-sorting-technique/)
+
 Other writings are here: [While You Were Gone](https://whileyouweregone.co.uk/)
 
 <!--
